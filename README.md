@@ -19,7 +19,7 @@ Actualmente estoy finalizando mis estudios secundarios técnicos y me preparo pa
 Sistema integral de gestión de estaciones de peaje.  
 - Administración de casillas, operadores y cobros.  
 - Resúmenes automáticos de turnos.  
-🔗 [Repositorio](https://github.com/miusuario/peaje)
+🔗 [Repositorio](https://github.com/Villada-PG3/trabajo-practico-integrador-grupo-peaje)
 
 ---
 
@@ -35,7 +35,8 @@ Sistema integral de gestión de estaciones de peaje.
 ## 🌐 Contacto
 - ✉️ [Email](mailto:sgallasia@gmial.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/santiago-garay-allasia-654866227)  
-- 🐙 [GitHub](https://github.com/garaySantiago27)  
+- 🐙 [GitHub](https://github.com/garaySantiago27)
+- 📞 [Teléfono](tel:+5493518093210) 
 
 ---
 
