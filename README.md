@@ -33,8 +33,8 @@ Sistema integral de gestión de estaciones de peaje.
 ---
 
 ## 🌐 Contacto
-- ✉️ [Email](sgallasia@gmial.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/Santaigogarayallasia)  
+- ✉️ [Email](mailto:sgallasia@gmial.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/santiago-garay-allasia-654866227)  
 - 🐙 [GitHub](https://github.com/garaySantiago27)  
 
 ---
